@@ -1,0 +1,7 @@
+C:\Users\abrhm\source\repos\TestDotNetDroplet\TestDotNetDroplet\TestDotNetDroplet\bin\Release\net6.0\publish\TestDotNetDroplet.exe
+C:\Users\abrhm\source\repos\TestDotNetDroplet\TestDotNetDroplet\TestDotNetDroplet\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\abrhm\source\repos\TestDotNetDroplet\TestDotNetDroplet\TestDotNetDroplet\bin\Release\net6.0\publish\appsettings.json
+C:\Users\abrhm\source\repos\TestDotNetDroplet\TestDotNetDroplet\TestDotNetDroplet\bin\Release\net6.0\publish\TestDotNetDroplet.dll
+C:\Users\abrhm\source\repos\TestDotNetDroplet\TestDotNetDroplet\TestDotNetDroplet\bin\Release\net6.0\publish\TestDotNetDroplet.deps.json
+C:\Users\abrhm\source\repos\TestDotNetDroplet\TestDotNetDroplet\TestDotNetDroplet\bin\Release\net6.0\publish\TestDotNetDroplet.runtimeconfig.json
+C:\Users\abrhm\source\repos\TestDotNetDroplet\TestDotNetDroplet\TestDotNetDroplet\bin\Release\net6.0\publish\TestDotNetDroplet.pdb
